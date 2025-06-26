@@ -17,19 +17,9 @@ I am a computer engineering master's student at UC San Diego and a lead software
 
 ---
 
-### 🎓 About Me
-
-I'm also passionate about sharing my technical journey and helping others break into engineering and product roles. You’ll find me talking about:
-
-- [Instagram](https://instagram.com/)
-- [TikTok](https://tiktok.com/)
-- [YouTube](https://youtube.com/)
-
----
-
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathanielgreenberg/)
 
 ---
 
