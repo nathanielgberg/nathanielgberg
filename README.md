@@ -46,11 +46,6 @@ I am a computer engineering master's student at UC San Diego and a lead software
 
 ---
 
-<!-- Optional: Footer or fun message -->
-> “The best way to predict the future is to invent it.” – Alan Kay
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
