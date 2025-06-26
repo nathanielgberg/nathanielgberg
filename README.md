@@ -67,3 +67,17 @@ I'm also passionate about sharing my technical journey and helping others break 
 
 <!-- Optional: Footer or fun message -->
 > “The best way to predict the future is to invent it.” – Alan Kay
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanielgreenberg&show_icons=true&theme=github_dark&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nathanielgreenberg&theme=github-dark&hide_border=false" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielgreenberg&layout=compact&theme=github_dark&langs_count=10" />
+</div>
+
