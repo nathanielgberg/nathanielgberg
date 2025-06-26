@@ -81,3 +81,16 @@ I'm also passionate about sharing my technical journey and helping others break 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielgreenberg&layout=compact&theme=github_dark&langs_count=10" />
 </div>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanielgberg&show_icons=true&theme=github_dark&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nathanielgberg&theme=github-dark&hide_border=false" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielgberg&layout=compact&theme=github_dark&langs_count=10" />
+</div>
+
