@@ -1,6 +1,3 @@
-<!-- Colored header banner -->
-![Header](https://via.placeholder.com/1200x100/007acc/ffffff?text=👨‍💻+Welcome+to+My+GitHub+Portfolio)
-
 # Hi 👋 I'm Nathaniel Greenberg
 
 ---
