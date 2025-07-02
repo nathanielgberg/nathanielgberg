@@ -6,7 +6,7 @@
 
 ---
 
-### 🪄 About Me:
+### 📝 About Me:
 
 I am a computer engineering master's student at UC San Diego and a lead software engineer at Skilltree. I'm passionate about building scalable, impactful applications and exploring the frontiers of machine learning, mobile development, and developer tooling.
 
